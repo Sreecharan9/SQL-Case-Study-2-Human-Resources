@@ -5,8 +5,7 @@
            MAX(end_date-start_date) AS days
     FROM departments a
     INNER JOIN projects b USING(id)
-    GROUP BY 1,
-             2
+    GROUP BY 1,2
     ORDER BY 1;
 
 | department_name | project_name    | days |
@@ -92,9 +91,9 @@
 
 | department_name | duration        |
 | --------------- | --------------- |
-| HR              | [object Object] |
-| IT              | [object Object] |
-| Sales           | [object Object] |
+| HR              | 2 years 10 months 10 days  |
+| IT              | 3 years 2 months 17 days   |
+| Sales           | 3 years 2 months 5 days    |
 
 
 ---
