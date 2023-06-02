@@ -26,4 +26,3 @@ Database Server used: Postgresql
 4) Rank employees within each department based on their hire date (earliest hire gets the highest rank).
 5) Find the duration between the hire date of each employee and the hire date of the next employee hired in the same department.
 
-# Approach:
