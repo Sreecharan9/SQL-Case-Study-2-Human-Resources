@@ -98,6 +98,11 @@
 
 ---
 
+#  Key Insights:
+
+* "Sales Project 1" in the Sales Department is a project that has been ongoing for longer duration in terms of days(183)
+* "Bob Miller"," Charles Brown" and "Dave Davis" do not hold the Managerial Positions.
+*  Among the three departments, "Sales Department" specifically, had only one individual named "Dave Davis" who was hired after the commencement of a projec
 
  
 
