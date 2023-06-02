@@ -6,7 +6,7 @@ The case study comes with 3 tables: Departments, Employees, and Projects contain
 
 # Overview:
 
-* To effectively address the five questions, it is necessary to possess knowledge and familiarity with the following topics:
+To effectively address the five questions, it is necessary to possess knowledge and familiarity with the following topics:
 
 * IF statements
 * Window Functions
