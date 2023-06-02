@@ -89,8 +89,8 @@
                 2) as sq1
     WHERE duration IS NOT NULL;
 
-| department_name | duration        |
-| --------------- | --------------- |
+| department_name | duration                   |
+| --------------- | ---------------------------|            
 | HR              | 2 years 10 months 10 days  |
 | IT              | 3 years 2 months 17 days   |
 | Sales           | 3 years 2 months 5 days    |
